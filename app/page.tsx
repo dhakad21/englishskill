@@ -3,12 +3,6 @@
 import { usePaginatedData } from "@/components/usePaginatedData";
 import { useState } from "react";
 
-interface Answer {
-  option: string;
-  text: string;
-  isCorrect: boolean;
-}
-
 export default function Game() {
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [wrongAnswers, setWrongtAnswers] = useState(0);
@@ -48,21 +42,14 @@ setTimeout(() => {
     console.log(isCorrect ? "Correct!" : "Incorrect!");
   };
 
-const turnNext = () => {
- 
-  console.log("turnNext");
-
-   
-}
-
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-white">
       <div className="bg-white shadow-md rounded-lg p-6 w-full max-w-lg">
         {/* <h2 className="text-2xl font-bold mb-4">Data List</h2> */}
 
         {/* Display current question */}
-        <div className="mb-4 bg-gray-200 rounded relative overflow-hidden" style={{ maxHeight: '470px' }}>
+        <div className="mb-4 bg-white rounded relative overflow-hidden pt-6" style={{ maxHeight: '470px' }}>
           <img src={currentQuestion?.image} alt={currentQuestion?.question} />
           <div className="topline absolute left-0 right-0 flex justify-between top-0">
             <p className="text-md mb-4 text-red-100 bg-red-700 px-4 py-2 rounded-lg">Wrong Try: {wrongAnswers}</p>
@@ -71,8 +58,8 @@ const turnNext = () => {
             <p className="text-md mb-4 text-red-50 bg-emerald-900 px-4 py-2 rounded-lg">Correct: {correctAnswers}</p>
           </div>
 
-          <div className={`bottompart question-part absolute left-0 right-0 flex flex-col top-32 bg-white bottom-0 p-4 z-10 ${hideObject && 'opacity-0'}`}>
-            <h3 className="text-lg font-semibold mb-6">{currentQuestion?.question}</h3>
+          <div className={`bottompart question-part absolute left-0 right-0 flex flex-col top-28 bg-white bottom-0 p-4 z-10 ${hideObject && 'opacity-0'}`}>
+            {/* <h3 className="text-lg font-semibold mb-6">{currentQuestion?.question}</h3> */}
             {/* Display answers */}
             {currentQuestion.answers.map((answer, index) => (
               <button
