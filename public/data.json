@@ -1,0 +1,1128 @@
+{
+    "questions": [
+      {
+        "question": "Means of Bewitching ?",
+        "image": "https://ashokuse.kodecube.com/spellings/1.jpg",
+        "answers": [
+          { "option": "A", "text": "मोहक", "isCorrect": true },
+          { "option": "B", "text": "फैशनेबल", "isCorrect": false },
+          { "option": "C", "text": "असंगति", "isCorrect": false },
+          { "option": "D", "text": "नियमहीनता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Spotted?",
+        "image": "https://ashokuse.kodecube.com/spellings/2.jpg",
+        "answers": [
+          { "option": "A", "text": "मोहक", "isCorrect": false },
+          { "option": "B", "text": "चितकबरा", "isCorrect": true },
+          { "option": "C", "text": "असंगति", "isCorrect": false },
+          { "option": "D", "text": "नियमहीनता", "isCorrect": false }
+        ]
+      },
+      {
+        
+        "question": "Means of Gorgeous ?",
+        "image": "https://ashokuse.kodecube.com/spellings/3.jpg",
+        "answers": [
+          { "option": "A", "text": "भव्य", "isCorrect": true },
+          { "option": "B", "text": "चितकबरा", "isCorrect": false },
+          { "option": "C", "text": "असंगति", "isCorrect": false },
+          { "option": "D", "text": "नियमहीनता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Breakthrough?",
+        "image": "https://ashokuse.kodecube.com/spellings/4.jpg",
+        "answers": [
+          { "option": "A", "text": "भव्य", "isCorrect": false },
+          { "option": "B", "text": "चितकबरा", "isCorrect": false },
+          { "option": "C", "text": "असंगति", "isCorrect": false },
+          { "option": "D", "text": "दरार / महत्वपूर्ण विकास", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Leap?",
+        "image": "https://ashokuse.kodecube.com/spellings/5.jpg",
+        "answers": [
+          { "option": "A", "text": "भव्य", "isCorrect": false },
+          { "option": "B", "text": "चितकबरा", "isCorrect": false },
+          { "option": "C", "text": "छलाँग", "isCorrect": true },
+          { "option": "D", "text": "दरार", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Leap?",
+        "image": "https://ashokuse.kodecube.com/spellings/7.jpg",
+        "answers": [
+          { "option": "A", "text": "बडाव / चढ़ाव", "isCorrect": true },
+          { "option": "B", "text": "चितकबरा", "isCorrect": false },
+          { "option": "C", "text": "छलाँग", "isCorrect": false },
+          { "option": "D", "text": "दरार", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Reconcilable?",
+        "image": "https://ashokuse.kodecube.com/spellings/8.jpg",
+        "answers": [
+          { "option": "A", "text": "बडाव / चढ़ाव", "isCorrect": false },
+          { "option": "B", "text": "अविस्र्द्ध", "isCorrect": false },
+          { "option": "C", "text": "छलाँग", "isCorrect": false },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Antithetical?",
+        "image": "https://ashokuse.kodecube.com/spellings/9.jpg",
+        "answers": [
+          { "option": "A", "text": "बडाव / चढ़ाव", "isCorrect": false },
+          { "option": "B", "text": "विरोधात्मक", "isCorrect": true },
+          { "option": "C", "text": "छलाँग", "isCorrect": false },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Incompatible?",
+        "image": "https://ashokuse.kodecube.com/spellings/11.jpg",
+        "answers": [
+          { "option": "A", "text": "बडाव / चढ़ाव", "isCorrect": false },
+          { "option": "B", "text": "विरोधात्मक", "isCorrect": false },
+          { "option": "C", "text": "बेमेल", "isCorrect": true },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Consistent?",
+        "image": "https://ashokuse.kodecube.com/spellings/13.jpg",
+        "answers": [
+          { "option": "A", "text": "सुसंगत / समान", "isCorrect": true },
+          { "option": "B", "text": "विरोधात्मक", "isCorrect": false },
+          { "option": "C", "text": "बेमेल", "isCorrect": false },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Steady?",
+        "image": "https://ashokuse.kodecube.com/spellings/14.jpg",
+        "answers": [
+          { "option": "A", "text": "सुसंगत / समान", "isCorrect": false },
+          { "option": "B", "text": "स्थिर / दृढ़", "isCorrect": true },
+          { "option": "C", "text": "बेमेल", "isCorrect": false },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Unfitting?",
+        "image": "https://ashokuse.kodecube.com/spellings/15.jpg",
+        "answers": [
+          { "option": "A", "text": "सुसंगत", "isCorrect": false },
+          { "option": "B", "text": "स्थिर", "isCorrect": false },
+          { "option": "C", "text": "अनुपयुक्त", "isCorrect": true },
+          { "option": "D", "text": "सुलह होने योग्य", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Irregular?",
+        "image": "https://ashokuse.kodecube.com/spellings/16.jpg",
+        "answers": [
+          { "option": "A", "text": "सुसंगत", "isCorrect": false },
+          { "option": "B", "text": "स्थिर", "isCorrect": false },
+          { "option": "C", "text": "अनुपयुक्त", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Unreasonable?",
+        "image": "https://ashokuse.kodecube.com/spellings/17.jpg",
+        "answers": [
+          { "option": "A", "text": "अनुचित होना", "isCorrect": true },
+          { "option": "B", "text": "स्थिर", "isCorrect": false },
+          { "option": "C", "text": "अनुपयुक्त", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Conjunction?",
+        "image": "https://ashokuse.kodecube.com/spellings/18.jpg",
+        "answers": [
+          { "option": "A", "text": "अनुचित होना", "isCorrect": false },
+          { "option": "B", "text": "संयोजन", "isCorrect": true },
+          { "option": "C", "text": "अनुपयुक्त", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Boredom?",
+        "image": "https://ashokuse.kodecube.com/spellings/19.jpg",
+        "answers": [
+          { "option": "A", "text": "अनुचित होना", "isCorrect": false },
+          { "option": "B", "text": "संयोजन", "isCorrect": false },
+          { "option": "C", "text": "ऊब की स्थिति", "isCorrect": true },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Abolish?",
+        "image": "https://ashokuse.kodecube.com/spellings/20.jpg",
+        "answers": [
+          { "option": "A", "text": "समाप्त करना", "isCorrect": true },
+          { "option": "B", "text": "संयोजन", "isCorrect": false },
+          { "option": "C", "text": "ऊब की स्थिति", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Seek?",
+        "image": "https://ashokuse.kodecube.com/spellings/21.jpg",
+        "answers": [
+          { "option": "A", "text": "तलाश करना", "isCorrect": true },
+          { "option": "B", "text": "संयोजन", "isCorrect": false },
+          { "option": "C", "text": "ऊब की स्थिति", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Unscrupulously?",
+        "image": "https://ashokuse.kodecube.com/spellings/22.jpg",
+        "answers": [
+          { "option": "A", "text": "तलाश करना", "isCorrect": false },
+          { "option": "B", "text": "संयोजन", "isCorrect": false },
+          { "option": "C", "text": "बेईमानी से / अनैतिक तरीके से", "isCorrect": true },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Sincerely?",
+        "image": "https://ashokuse.kodecube.com/spellings/26.jpg",
+        "answers": [
+          { "option": "A", "text": "तलाश करना", "isCorrect": false },
+          { "option": "B", "text": "ईमानदारी से", "isCorrect": true },
+          { "option": "C", "text": "बेईमानी से", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Carnivores?",
+        "image": "https://ashokuse.kodecube.com/spellings/27.jpg",
+        "answers": [
+          { "option": "A", "text": "मांसाहारी", "isCorrect": true },
+          { "option": "B", "text": "ईमानदारी से", "isCorrect": false },
+          { "option": "C", "text": "बेईमानी से", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Omnivores?",
+        "image": "https://ashokuse.kodecube.com/spellings/28.jpg",
+        "answers": [
+          { "option": "A", "text": "मांसाहारी", "isCorrect": false },
+          { "option": "B", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": true },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Aquarium?",
+        "image": "https://ashokuse.kodecube.com/spellings/29.jpg",
+        "answers": [
+          { "option": "A", "text": "मछलीघर", "isCorrect": true },
+          { "option": "B", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Dwindle?",
+        "image": "https://ashokuse.kodecube.com/spellings/30.jpg",
+        "answers": [
+          { "option": "A", "text": "मछलीघर", "isCorrect": false },
+          { "option": "B", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "C", "text": "कम होना", "isCorrect": true },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Wane?",
+        "image": "https://ashokuse.kodecube.com/spellings/31.jpg",
+        "answers": [
+          { "option": "A", "text": "मछलीघर", "isCorrect": false },
+          { "option": "B", "text": "पतन / घटना", "isCorrect": true },
+          { "option": "C", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Appendage?",
+        "image": "https://ashokuse.kodecube.com/spellings/33.jpg",
+        "answers": [
+          { "option": "A", "text": "उपांग / अनुबंध/ परिशिष्ट", "isCorrect": true },
+          { "option": "B", "text": "पतन / घटना", "isCorrect": false },
+          { "option": "C", "text": "कम होना", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Culmination?",
+        "image": "https://ashokuse.kodecube.com/spellings/34.jpg",
+        "answers": [
+          { "option": "A", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "B", "text": "पराकाष्ठा / चरम सीमा ", "isCorrect": true },
+          { "option": "C", "text": "कम होना", "isCorrect": false },
+          { "option": "D", "text": "अनियमित", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Pinnacle?",
+        "image": "https://ashokuse.kodecube.com/spellings/35.jpg",
+        "answers": [
+          { "option": "A", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "B", "text": "पराकाष्ठा", "isCorrect": false },
+          { "option": "C", "text": "कम होना", "isCorrect": false },
+          { "option": "D", "text": "पर्वतशिखा", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Eminence?",
+        "image": "https://ashokuse.kodecube.com/spellings/36.jpg",
+        "answers": [
+          { "option": "A", "text": "ईमानदारी", "isCorrect": false },
+          { "option": "B", "text": "महानता", "isCorrect": true },
+          { "option": "C", "text": "श्रेष्ठता", "isCorrect": true },
+          { "option": "D", "text": "पर्वतशिखा", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Renown?",
+        "image": "https://ashokuse.kodecube.com/spellings/37.jpg",
+        "answers": [
+          { "option": "A", "text": "प्रसिद्ध", "isCorrect": true },
+          { "option": "B", "text": "प्रख्यात", "isCorrect": true },
+          { "option": "C", "text": "मशहूर", "isCorrect": true },
+          { "option": "D", "text": "पर्वतशिखा", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Preeminence?",
+        "image": "https://ashokuse.kodecube.com/spellings/38.jpg",
+        "answers": [
+          { "option": "A", "text": "श्रेष्ठता", "isCorrect": true },
+          { "option": "B", "text": "विवेकहीन", "isCorrect": false },
+          { "option": "C", "text": "बेशरम", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Implicitly?",
+        "image": "https://ashokuse.kodecube.com/spellings/40.jpg",
+        "answers": [
+          { "option": "A", "text": "श्रेष्ठता", "isCorrect": false },
+          { "option": "B", "text": "विवेकहीन", "isCorrect": false },
+          { "option": "C", "text": "उलझाव से / अकथित रूप से", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Anomalies?",
+        "image": "https://ashokuse.kodecube.com/spellings/41.jpg",
+        "answers": [
+          { "option": "A", "text": "श्रेष्ठता", "isCorrect": false },
+          { "option": "B", "text": "विसंगतियों", "isCorrect": true },
+          { "option": "C", "text": "असामान्य", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Busybody?",
+        "image": "https://ashokuse.kodecube.com/spellings/42.jpg",
+        "answers": [
+          { "option": "A", "text": "बाधा डालनेवाला", "isCorrect": true },
+          { "option": "B", "text": "विसंगतियों", "isCorrect": false },
+          { "option": "C", "text": "असामान्य", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Omnivores?",
+        "image": "https://ashokuse.kodecube.com/spellings/43.jpg",
+        "answers": [
+          { "option": "A", "text": "बाधा डालनेवाला", "isCorrect": false },
+          { "option": "B", "text": "विसंगतियों", "isCorrect": false },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Carnivores?",
+        "image": "https://ashokuse.kodecube.com/spellings/44.jpg",
+        "answers": [
+          { "option": "A", "text": "बाधा डालनेवाला", "isCorrect": false },
+          { "option": "B", "text": "मांसाहारी", "isCorrect": true },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Cannibal?",
+        "image": "https://ashokuse.kodecube.com/spellings/45.jpg",
+        "answers": [
+          { "option": "A", "text": "नरभक्षक", "isCorrect": true },
+          { "option": "B", "text": "मांसाहारी", "isCorrect": false },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Mesmerizing?",
+        "image": "https://ashokuse.kodecube.com/spellings/46.jpg",
+        "answers": [
+          { "option": "A", "text": "मंत्रमुग्ध करने वाला", "isCorrect": true },
+          { "option": "B", "text": "मांसाहारी", "isCorrect": false },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Enchantment?",
+        "image": "https://ashokuse.kodecube.com/spellings/47.jpg",
+        "answers": [
+          { "option": "A", "text": "मंत्रमुग्ध", "isCorrect": true },
+          { "option": "B", "text": "आकर्षण", "isCorrect": true },
+          { "option": "C", "text": "सर्वाहारी", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Acquaintances?",
+        "image": "https://ashokuse.kodecube.com/spellings/48.jpg",
+        "answers": [
+          { "option": "A", "text": "मंत्रमुग्ध", "isCorrect": false },
+          { "option": "B", "text": "आकर्षण", "isCorrect": false },
+          { "option": "C", "text": "परिचित व्यक्ति", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Conspirator?",
+        "image": "https://ashokuse.kodecube.com/spellings/49.jpg",
+        "answers": [
+          { "option": "A", "text": "षड्यंत्रकारी", "isCorrect": true },
+          { "option": "B", "text": "आकर्षण", "isCorrect": false },
+          { "option": "C", "text": "परिचित व्यक्ति", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Accomplice?",
+        "image": "https://ashokuse.kodecube.com/spellings/50.jpg",
+        "answers": [
+          { "option": "A", "text": "सह-अपराधी", "isCorrect": true },
+          { "option": "B", "text": "आकर्षण", "isCorrect": false },
+          { "option": "C", "text": "परिचित व्यक्ति", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Subversive?",
+        "image": "https://ashokuse.kodecube.com/spellings/51.jpg",
+        "answers": [
+          { "option": "A", "text": "सह-अपराधी", "isCorrect": false },
+          { "option": "B", "text": "आकर्षण", "isCorrect": false },
+          { "option": "C", "text": "नाश करने वाला", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Suspicion?",
+        "image": "https://ashokuse.kodecube.com/spellings/52.jpg",
+        "answers": [
+          { "option": "A", "text": "सह-अपराधी", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": true },
+          { "option": "C", "text": "नाश करने वाला", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Straw?",
+        "image": "https://ashokuse.kodecube.com/spellings/53.jpg",
+        "answers": [
+          { "option": "A", "text": "सूखी घास", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "नाश करने वाला", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Interdependence?",
+        "image": "https://ashokuse.kodecube.com/spellings/54.jpg",
+        "answers": [
+          { "option": "A", "text": "सूखी घास", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "परस्पर निर्भरता", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Pertinent?",
+        "image": "https://ashokuse.kodecube.com/spellings/55.jpg",
+        "answers": [
+          { "option": "A", "text": "उचित", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "परस्पर निर्भरता", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Abstract?",
+        "image": "https://ashokuse.kodecube.com/spellings/56.jpg",
+        "answers": [
+          { "option": "A", "text": "उचित", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "सारांश", "isCorrect": true },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Philosophical?",
+        "image": "https://ashokuse.kodecube.com/spellings/57.jpg",
+        "answers": [
+          { "option": "A", "text": "दार्शनिक", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "सारांश", "isCorrect": false },
+          { "option": "D", "text": "निर्लज्ज", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Conceptual?",
+        "image": "https://ashokuse.kodecube.com/spellings/58.jpg",
+        "answers": [
+          { "option": "A", "text": "दार्शनिक", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "मानसिक अवधारणाओं पर आधारित होना", "isCorrect": true },
+          { "option": "D", "text": "वैचारिक", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Impotence?",
+        "image": "https://ashokuse.kodecube.com/spellings/59.jpg",
+        "answers": [
+          { "option": "A", "text": "दार्शनिक", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "नपुंसकता", "isCorrect": true },
+          { "option": "D", "text": "वैचारिक", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Feasible?",
+        "image": "https://ashokuse.kodecube.com/spellings/60.jpg",
+        "answers": [
+          { "option": "A", "text": "संभव", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "नपुंसकता", "isCorrect": false },
+          { "option": "D", "text": "वैचारिक", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Chaos?",
+        "image": "https://ashokuse.kodecube.com/spellings/62.jpg",
+        "answers": [
+          { "option": "A", "text": "संभव", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "नपुंसकता", "isCorrect": false },
+          { "option": "D", "text": "अराजकता", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Chorus?",
+        "image": "https://ashokuse.kodecube.com/spellings/63.jpg",
+        "answers": [
+          { "option": "A", "text": "गानेवालों का समूह", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "नपुंसकता", "isCorrect": false },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Ensemble?",
+        "image": "https://ashokuse.kodecube.com/spellings/64.jpg",
+        "answers": [
+          { "option": "A", "text": "गानेवालों का समूह", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "कलाकारों की टुकड़ी", "isCorrect": true },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Altogether?",
+        "image": "https://ashokuse.kodecube.com/spellings/65.jpg",
+        "answers": [
+          { "option": "A", "text": "पूर्ण रूप से", "isCorrect": true },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "कलाकारों की टुकड़ी", "isCorrect": false },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Lieu?",
+        "image": "https://ashokuse.kodecube.com/spellings/66.jpg",
+        "answers": [
+          { "option": "A", "text": "पूर्ण रूप से", "isCorrect": false },
+          { "option": "B", "text": "संदेह", "isCorrect": false },
+          { "option": "C", "text": "एवज / बदला", "isCorrect": true },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Corsair?",
+        "image": "https://ashokuse.kodecube.com/spellings/67.jpg",
+        "answers": [
+          { "option": "A", "text": "पूर्ण रूप से", "isCorrect": false },
+          { "option": "B", "text": "समुद्री डाकू", "isCorrect": true },
+          { "option": "C", "text": "एवज / बदला", "isCorrect": false },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Buccaneer?",
+        "image": "https://ashokuse.kodecube.com/spellings/68.jpg",
+        "answers": [
+          { "option": "A", "text": "जहाजी डाकू", "isCorrect": true },
+          { "option": "B", "text": "समुद्री डाकू", "isCorrect": false },
+          { "option": "C", "text": "एवज / बदला", "isCorrect": false },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Tedious?",
+        "image": "https://ashokuse.kodecube.com/spellings/69.jpg",
+        "answers": [
+          { "option": "A", "text": "जहाजी डाकू", "isCorrect": false },
+          { "option": "B", "text": "समुद्री डाकू", "isCorrect": false },
+          { "option": "C", "text": "थकाऊ", "isCorrect": true },
+          { "option": "D", "text": "अराजकता", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Dreary?",
+        "image": "https://ashokuse.kodecube.com/spellings/70.jpg",
+        "answers": [
+          { "option": "A", "text": "जहाजी डाकू", "isCorrect": false },
+          { "option": "B", "text": "समुद्री डाकू", "isCorrect": false },
+          { "option": "C", "text": "थकाऊ", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Anomaly?",
+        "image": "https://ashokuse.kodecube.com/spellings/71.jpg",
+        "answers": [
+          { "option": "A", "text": "जहाजी डाकू", "isCorrect": false },
+          { "option": "B", "text": "अवैधता", "isCorrect": true },
+          { "option": "C", "text": "थकाऊ", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Grazes?",
+        "image": "https://ashokuse.kodecube.com/spellings/72.jpg",
+        "answers": [
+          { "option": "A", "text": "चराता", "isCorrect": true },
+          { "option": "B", "text": "चराना ", "isCorrect": true },
+          { "option": "C", "text": "थकाऊ", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Rasping?",
+        "image": "https://ashokuse.kodecube.com/spellings/73.jpg",
+        "answers": [
+          { "option": "A", "text": "कर्कश / छीलन", "isCorrect": true },
+          { "option": "B", "text": "चराना ", "isCorrect": false },
+          { "option": "C", "text": "थकाऊ", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Apparel?",
+        "image": "https://ashokuse.kodecube.com/spellings/74.jpg",
+        "answers": [
+          { "option": "A", "text": "छीलन", "isCorrect": false },
+          { "option": "B", "text": "चराना ", "isCorrect": false },
+          { "option": "C", "text": "पोशाक", "isCorrect": true },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Paunch?",
+        "image": "https://ashokuse.kodecube.com/spellings/75.jpg",
+        "answers": [
+          { "option": "A", "text": "छीलन", "isCorrect": false },
+          { "option": "B", "text": "तोंद ", "isCorrect": true },
+          { "option": "C", "text": "पोशाक", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Abdomen?",
+        "image": "https://ashokuse.kodecube.com/spellings/76.jpg",
+        "answers": [
+          { "option": "A", "text": "छीलन", "isCorrect": false },
+          { "option": "B", "text": "पेट ", "isCorrect": true },
+          { "option": "C", "text": "पोशाक", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Bloated?",
+        "image": "https://ashokuse.kodecube.com/spellings/77.jpg",
+        "answers": [
+          { "option": "A", "text": "फूला हुआ", "isCorrect": true },
+          { "option": "B", "text": "पेट ", "isCorrect": false },
+          { "option": "C", "text": "पोशाक", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Mnemonic?",
+        "image": "https://ashokuse.kodecube.com/spellings/78.jpg",
+        "answers": [
+          { "option": "A", "text": "फूला हुआ", "isCorrect": false },
+          { "option": "B", "text": "पेट ", "isCorrect": false },
+          { "option": "C", "text": "स्मरणशक्ति बढ़ानेवाली", "isCorrect": true },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Excessive?",
+        "image": "https://ashokuse.kodecube.com/spellings/79.jpg",
+        "answers": [
+          { "option": "A", "text": "अत्यधिक", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "स्मरणशक्ति बढ़ानेवाली", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Expendable?",
+        "image": "https://ashokuse.kodecube.com/spellings/80.jpg",
+        "answers": [
+          { "option": "A", "text": "अत्यधिक", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "नष्ट होने योग्य", "isCorrect": true },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Evolving?",
+        "image": "https://ashokuse.kodecube.com/spellings/81.jpg",
+        "answers": [
+          { "option": "A", "text": "उभरती/विकसित होना", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "नष्ट होने योग्य", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Extrinsic?",
+        "image": "https://ashokuse.kodecube.com/spellings/82.jpg",
+        "answers": [
+          { "option": "A", "text": "विकसित होना", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "बाहरी", "isCorrect": true },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Reconciliation?",
+        "image": "https://ashokuse.kodecube.com/spellings/83.jpg",
+        "answers": [
+          { "option": "A", "text": "पुनर्मिलन", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "बाहरी", "isCorrect": false },
+          { "option": "D", "text": "उदास", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Enchanted?",
+        "image": "https://ashokuse.kodecube.com/spellings/84.jpg",
+        "answers": [
+          { "option": "A", "text": "पुनर्मिलन", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "बाहरी", "isCorrect": false },
+          { "option": "D", "text": "मंत्रमुग्ध करना", "isCorrect": true }
+        ]
+      },
+       {
+        "question": "Means of Fascinated?",
+        "image": "https://ashokuse.kodecube.com/spellings/85.jpg",
+        "answers": [
+          { "option": "A", "text": "पुनर्मिलन", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "मोहित", "isCorrect": true },
+          { "option": "D", "text": "मंत्रमुग्ध करना", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Intoxicated?",
+        "image": "https://ashokuse.kodecube.com/spellings/86.jpg",
+        "answers": [
+          { "option": "A", "text": "नशे में", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "मोहित", "isCorrect": false },
+          { "option": "D", "text": "मंत्रमुग्ध करना", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Graze?",
+        "image": "https://ashokuse.kodecube.com/spellings/87.jpg",
+        "answers": [
+          { "option": "A", "text": "नशे में", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "चराना", "isCorrect": true },
+          { "option": "D", "text": "मंत्रमुग्ध करना", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Metaphorically?",
+        "image": "https://ashokuse.kodecube.com/spellings/88.jpg",
+        "answers": [
+          { "option": "A", "text": "नशे में", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "चराना", "isCorrect": false },
+          { "option": "D", "text": "लाक्षणिक", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Eternal?",
+        "image": "https://ashokuse.kodecube.com/spellings/89.jpg",
+        "answers": [
+          { "option": "A", "text": "नशे में", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "सार्वकालिक", "isCorrect": true },
+          { "option": "D", "text": "लाक्षणिक", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Convenience?",
+        "image": "https://ashokuse.kodecube.com/spellings/91.jpg",
+        "answers": [
+          { "option": "A", "text": "सुविधा", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "सार्वकालिक", "isCorrect": false },
+          { "option": "D", "text": "लाक्षणिक", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Extraction?",
+        "image": "https://ashokuse.kodecube.com/spellings/92.jpg",
+        "answers": [
+          { "option": "A", "text": "सुविधा", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "निष्कासन", "isCorrect": true },
+          { "option": "D", "text": "लाक्षणिक", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Eradication?",
+        "image": "https://ashokuse.kodecube.com/spellings/94.jpg",
+        "answers": [
+          { "option": "A", "text": "सुविधा", "isCorrect": false },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "निष्कासन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Means of Appropriate?",
+        "image": "https://ashokuse.kodecube.com/spellings/96.jpg",
+        "answers": [
+          { "option": "A", "text": "उचित", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "निष्कासन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Apt?",
+        "image": "https://ashokuse.kodecube.com/spellings/97.jpg",
+        "answers": [
+          { "option": "A", "text": "उचित", "isCorrect": true },
+          { "option": "B", "text": "पेट", "isCorrect": false },
+          { "option": "C", "text": "निष्कासन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Felicitous?",
+        "image": "https://ashokuse.kodecube.com/spellings/99.jpg",
+        "answers": [
+          { "option": "A", "text": "पेट", "isCorrect": false },
+          { "option": "B", "text": "परम सुखी / उपयुक्त होना", "isCorrect": true },
+          { "option": "C", "text": "निष्कासन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Beneath?",
+        "image": "https://ashokuse.kodecube.com/spellings/100.jpg",
+        "answers": [
+          { "option": "A", "text": "नीचे", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "निष्कासन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Preserved?",
+        "image": "https://ashokuse.kodecube.com/spellings/103.jpg",
+        "answers": [
+          { "option": "A", "text": "नीचे", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "संरक्षित", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Apparatus?",
+        "image": "https://ashokuse.kodecube.com/spellings/106.jpg",
+        "answers": [
+          { "option": "A", "text": "उपकरण", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "संरक्षित", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Correlation?",
+        "image": "https://ashokuse.kodecube.com/spellings/107.jpg",
+        "answers": [
+          { "option": "A", "text": "उपकरण", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "पारस्परिक संबंध", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Imbalance?",
+        "image": "https://ashokuse.kodecube.com/spellings/109.jpg",
+        "answers": [
+          { "option": "A", "text": "असंतुलन", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "पारस्परिक संबंध", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Disconnection?",
+        "image": "https://ashokuse.kodecube.com/spellings/112.jpg",
+        "answers": [
+          { "option": "A", "text": "असंतुलन", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "अलगाव", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Interrelationship?",
+        "image": "https://ashokuse.kodecube.com/spellings/113.jpg",
+        "answers": [
+          { "option": "A", "text": "आपसी संबंध", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "अलगाव", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Interaction?",
+        "image": "https://ashokuse.kodecube.com/spellings/114.jpg",
+        "answers": [
+          { "option": "A", "text": "आपसी संबंध", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "पारस्परिक विचार-विमर्श", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Parallel?",
+        "image": "https://ashokuse.kodecube.com/spellings/115.jpg",
+        "answers": [
+          { "option": "A", "text": "आपसी संबंध", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "समानांतर", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Correspondence?",
+        "image": "https://ashokuse.kodecube.com/spellings/116.jpg",
+        "answers": [
+          { "option": "A", "text": "आपसी संबंध", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "समानता", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Interchange?",
+        "image": "https://ashokuse.kodecube.com/spellings/117.jpg",
+        "answers": [
+          { "option": "A", "text": "लेन-देन करना", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "समानता", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Intersection?",
+        "image": "https://ashokuse.kodecube.com/spellings/119.jpg",
+        "answers": [
+          { "option": "A", "text": "लेन-देन करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "प्रतिच्छेदन", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Barter?",
+        "image": "https://ashokuse.kodecube.com/spellings/120.jpg",
+        "answers": [
+          { "option": "A", "text": "अदल-बदल करना", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "प्रतिच्छेदन", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Accomplish?",
+        "image": "https://ashokuse.kodecube.com/spellings/123.jpg",
+        "answers": [
+          { "option": "A", "text": "अदल-बदल करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "पूरा करना", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Coordinate?",
+        "image": "https://ashokuse.kodecube.com/spellings/124.jpg",
+        "answers": [
+          { "option": "A", "text": "समायोजन करना", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "पूरा करना", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Integrated?",
+        "image": "https://ashokuse.kodecube.com/spellings/125.jpg",
+        "answers": [
+          { "option": "A", "text": "एक पद वाला", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "एकीकृत करना", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Mingled?",
+        "image": "https://ashokuse.kodecube.com/spellings/126.jpg",
+        "answers": [
+          { "option": "A", "text": "एक पद वाला", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "मिला हुआ", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Intermingle?",
+        "image": "https://ashokuse.kodecube.com/spellings/127.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रण करना", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "मिला हुआ", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Blend?",
+        "image": "https://ashokuse.kodecube.com/spellings/128.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रित करना", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "मिला हुआ", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Meld?",
+        "image": "https://ashokuse.kodecube.com/spellings/129.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रित करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "मिलकर एक हो जाना", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Disjoin?",
+        "image": "https://ashokuse.kodecube.com/spellings/131.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रित करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "अलग करना", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Least?",
+        "image": "https://ashokuse.kodecube.com/spellings/132.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रित करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "सब से छोटा", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Expenditure?",
+        "image": "https://ashokuse.kodecube.com/spellings/133.jpg",
+        "answers": [
+          { "option": "A", "text": "मिश्रित करना", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "खर्च", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Disbursement?",
+        "image": "https://ashokuse.kodecube.com/spellings/134.jpg",
+        "answers": [
+          { "option": "A", "text": "वितरण", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "खर्च", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Outlay?",
+        "image": "https://ashokuse.kodecube.com/spellings/135.jpg",
+        "answers": [
+          { "option": "A", "text": "वितरण", "isCorrect": false },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "खर्च", "isCorrect": true },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Means of Incidental?",
+        "image": "https://ashokuse.kodecube.com/spellings/136.jpg",
+        "answers": [
+          { "option": "A", "text": "आकस्मिक", "isCorrect": true },
+          { "option": "B", "text": "सुखी", "isCorrect": false },
+          { "option": "C", "text": "खर्च", "isCorrect": false },
+          { "option": "D", "text": "नाश", "isCorrect": false }
+        ]
+      }
+      
+      
+    ]
+  }
+  
