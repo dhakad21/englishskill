@@ -18,17 +18,23 @@ export default function Game() {
     setShowWrongObject(false);
     setHideObject(false);
     if (isCorrect) {
+      
       setCorrectAnswers((prev) => prev + 1);  
       setTimeout(() => { 
         setHideObject(true);
+        setShowCorrectObject(true);
       console.log("hide object")
       }, 1000)
 
+      setTimeout(() => { 
+        setShowCorrectObject(false);
+      }, 2000);
 setTimeout(() => {
   setHideObject(false);
+
   loadMore();
 
-}, 3000);
+}, 4000);
 
 
  

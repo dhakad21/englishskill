@@ -18,17 +18,23 @@ export default function Game() {
     setShowWrongObject(false);
     setHideObject(false);
     if (isCorrect) {
+      
       setCorrectAnswers((prev) => prev + 1);  
       setTimeout(() => { 
         setHideObject(true);
+        setShowCorrectObject(true);
       console.log("hide object")
       }, 1000)
 
+      setTimeout(() => { 
+        setShowCorrectObject(false);
+      }, 2000);
 setTimeout(() => {
   setHideObject(false);
+
   loadMore();
 
-}, 3000);
+}, 4000);
 
 
  
@@ -44,7 +50,7 @@ setTimeout(() => {
 
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-white">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-white overflow-hidden max-w-96 mx-auto">
       <div className="bg-white shadow-md rounded-lg p-6 w-full max-w-lg">
         {/* <h2 className="text-2xl font-bold mb-4">Data List</h2> */}
 
