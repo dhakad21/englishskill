@@ -23,7 +23,7 @@ export const usePaginatedData = () => {
     const fetchData = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch('https://ashokuse.kodecube.com/english.json');  // Fetch from public folder
+        const response = await fetch('https://ashokuse.kodecube.com/english.php');  // Fetch from public folder
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
