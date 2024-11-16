@@ -54,9 +54,15 @@ export const usePaginatedData = () => {
     );
   };
 
+  const loadPrevious = () => {
+    setCurrentQuestionIndex((prevIndex) =>
+    prevIndex > 0 ? prevIndex - 1 : data.length - 1
+    );
+  };
+
   const currentQuestion = data[currentQuestionIndex];
-  // console.log("Current Question:", currentQuestion);
+  // console.log("Current Question:", currentQuestionIndex);
 
 
-  return { data, isLoading, loadMore, currentQuestion,totalQuestions, currentQuestionIndex};
+  return { data, isLoading, loadMore, currentQuestion,totalQuestions, currentQuestionIndex, loadPrevious};
 };

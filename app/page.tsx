@@ -2,16 +2,16 @@
 
 import { usePaginatedData } from "@/components/usePaginatedData";
 import { useState } from "react";
-
+import Loading from "@/components/loading";
 export default function Game() {
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [wrongAnswers, setWrongtAnswers] = useState(0);
   const [showCorrectObject, setShowCorrectObject] = useState(false);
   const [hideObject, setHideObject] = useState(false);
   const [showWrongObject, setShowWrongObject] = useState(false);
-  const { currentQuestion, isLoading, loadMore, totalQuestions, currentQuestionIndex } = usePaginatedData();
+  const { currentQuestion, isLoading, loadMore, totalQuestions, currentQuestionIndex, loadPrevious } = usePaginatedData();
 
-  if (!currentQuestion?.question) return <div>Loading...</div>;
+  if (!currentQuestion?.question) return <Loading/>;
 
   const validateQuestion = (isCorrect: boolean) => {
     setShowCorrectObject(false);
@@ -58,10 +58,10 @@ setTimeout(() => {
         <div className="mb-4 bg-white rounded relative overflow-hidden pt-6" style={{ maxHeight: '470px' }}>
           <img src={currentQuestion?.image} alt={currentQuestion?.question} />
           <div className="topline absolute left-0 right-0 flex justify-between top-0">
-            <p className="text-md mb-4 text-red-100 bg-red-700 px-4 py-2 rounded-lg">Wrong Try: {wrongAnswers}</p>
+            <p className="text-md mb-4 text-red-100 bg-red-700 px-4 py-2 rounded-lg">F: {wrongAnswers}</p>
             <p className="text-md mb-4 text-red-100 bg-red-700 px-4 py-2 rounded-lg">{currentQuestionIndex}/{totalQuestions}</p>
 
-            <p className="text-md mb-4 text-red-50 bg-emerald-900 px-4 py-2 rounded-lg">Correct: {correctAnswers}</p>
+            <p className="text-md mb-4 text-red-50 bg-emerald-900 px-4 py-2 rounded-lg">T: {correctAnswers}</p>
           </div>
 
           <div className={`bottompart question-part absolute left-0 right-0 flex flex-col top-28 bg-white bottom-0 p-4 z-10 ${hideObject && 'opacity-0'}`}>
@@ -89,13 +89,32 @@ ${showWrongObject ? 'opacity-1 z-20' : ('opacity-0 z-0')}`}>
         </div>
 
         {/* Load More Button */}
-        {/* <button
-          onClick={()=>{turnNext()}}
+        <div className="flex justify-between">
+       
+              {currentQuestionIndex > 0 ? (<button
+          onClick={()=>{loadPrevious()}}
           disabled={isLoading}
-          className="mt-4 py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
+          className="mt-4 py-2 px-4 bg-rose-700 text-white rounded hover:bg-rose-900 transition-colors"
         >
-          {isLoading ? "Loading..." : "Next Question"}
-        </button> */}
+          {isLoading ? "Loading..." : "Prev"}
+        </button>):(<button        
+          disabled={true}
+          className="mt-4 py-2 px-4 bg-rose-700 text-white rounded hover:bg-rose-900 transition-colors cursor-no-drop"
+        >
+          {isLoading ? "Loading..." : "Prev"}
+        </button>)}
+        
+
+        <button
+          onClick={()=>{loadMore()}}
+          disabled={isLoading}
+          className="mt-4 py-2 px-4 bg-emerald-700 text-white rounded hover:bg-emerald-900 transition-colors"
+        >
+          {isLoading ? "Loading..." : "Next"}
+        </button>
+        </div>
+
+
       </div>
     </div>
   );
